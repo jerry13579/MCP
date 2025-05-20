@@ -1,3 +1,4 @@
+
 # MCP in 10 Minutes
 Learn how to build a MCP Server for Yahoo Finance (and just about anything else) in 10 minutes. 
 
